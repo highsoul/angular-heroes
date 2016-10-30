@@ -2,7 +2,7 @@
 /node_modules/*
 
 #忽略typescript编译成的js文件
-/app/*.js
+/build/*.js
 
 #忽略systemjs生成的source map文件
-/app/*.map
+/build/*.map
