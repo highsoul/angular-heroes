@@ -1,3 +1,6 @@
+#忽略NPM日志文件
+*.log
+
 #忽略node_modules下所有package
 /node_modules/*
 
@@ -6,3 +9,4 @@
 
 #忽略systemjs生成的source map文件
 /build/*.map
+
