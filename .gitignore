@@ -4,9 +4,5 @@
 #忽略node_modules下所有package
 /node_modules/*
 
-#忽略typescript编译成的js文件
-/build/*.js
-
-#忽略systemjs生成的source map文件
-/build/*.map
-
+#忽略typescript编译后的一切东西
+/build
